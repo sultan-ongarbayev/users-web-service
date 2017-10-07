@@ -24,7 +24,7 @@
         <java.version>1.8</java.version>
 
         <!-- Dependencies versions -->
-        <jackson.version>2.7.3</jackson.version>
+        <jackson.version>2.9.1</jackson.version>
         <jackson.core.version>${jackson.version}</jackson.core.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
         <jackson.annotations.version>${jackson.version}</jackson.annotations.version>
